@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  UnitTest6.1.cpp
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(29,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(30,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(46,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(50,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(51,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.h(84,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(7,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(16,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(30,92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(43,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(70,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(85,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(93,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(101,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Lab_6.1\Array.cpp(169,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 6\Lab_6.1\Lab_6.1\UnitTest6.1\UnitTest6.1.cpp(28,12): warning C4244: 'initializing': conversion from 'Array::value_type' to 'int', possible loss of data
+     Creating library F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Debug\UnitTest6.1.lib and object F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Debug\UnitTest6.1.exp
+  UnitTest6.1.vcxproj -> F:\ООП\Тема 6\Lab_6.1\Lab_6.1\Debug\UnitTest6.1.dll
